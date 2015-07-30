@@ -12,7 +12,7 @@ public class IT7320Demo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-     
+     System.out.println("This is the first line of code from the netbeans program");
     }
     
 }
