@@ -17,6 +17,7 @@ public class Sample {
     public static void main(String[] args) {
        System.out.println("Sample output");
        System.out.println("This will be the second commit");
+       System.out.println("Commit done inside github");
     }
     
 }
