@@ -14,6 +14,7 @@ public class IT7320Demo {
     public static void main(String[] args) {
      System.out.println("This is the first line of code from the netbeans program");
      System.out.println("Commit from the Github");
+     System.out.println();
     }
     
 }
